@@ -1,3 +1,3 @@
 # AOC2023
 
-Erlang was fun in PCP but have you've ever heard of elixir? :O
+Doing it in Haskell, might try elixir if I have time.
